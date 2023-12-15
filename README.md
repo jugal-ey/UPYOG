@@ -13,7 +13,7 @@ UPYOG focuses on inclusion and is designed on the principle of enhancing both pl
 * ### [Issue Reporting](https://github.com/upyog/UPYOG/issues)
 
 
-## Some of the UPYOG Platform/Features
+## Some of the UPYOG Platform/Features.
 <img src="https://nugp-assets.s3.ap-south-1.amazonaws.com/nugp+asset/UPYOG_Features.png" width="1000">
 
 ## Tech Overview
@@ -22,4 +22,4 @@ UPYOG focuses on inclusion and is designed on the principle of enhancing both pl
 
 ### UPYOG Code is open sources under License [UPYOG CODE, COPYRIGHT AND CONTRIBUTION LICENSE TERMS](https://upyog.niua.org/employee/Upyog%20Code%20and%20Copyright%20License_v1.pdf)
 
-### UPYOG is Developed and Maintained by [NIUA](https://niua.in/)
+### UPYOG is Developed and Maintained by [NIUA](https://niua.in/).
